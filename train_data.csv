@@ -1,0 +1,186 @@
+pattern,tag,cleaned_pattern
+I feel down,sad,feel
+What's the difference between sadness and depression?,fact-32,difference sadness depression
+I am so useless,worthless,useless
+probably because of my exams,problem,probably exams
+My mom died,death,mom died
+That's all i have to say,done,say
+cheerful,happy,cheerful
+Whatever,casual,whatever
+I don't want to talk about it.,not-talking,want talk
+How can I find a mental health professional right for my child or myself?,fact-18,find mental health professional right child
+You can't possibly know what i'm going through,understand,ca possibly know going
+Tell me about yourself,about,tell
+Thanks,thanks,thanks
+No one likes me.,worthless,one likes
+I want to learn more about mental health.,learn-mental-health,want learn mental health
+What is a therapist?,fact-6,therapist
+Guten tag,greeting,guten tag
+Nobody understands me.,understand,nobody understands
+,no-response,
+Wrong answer,wrong,wrong answer
+I can't do anything.,worthless,ca anything
+I feel great today.,happy,feel great today
+Hey there,greeting,hey
+I feel sad,sad,feel sad
+My friend passed away,death,friend passed away
+relationship,default,relationship
+What is Depression?,fact-3,depression
+I am so burned out,stressed,burned
+family,default,family
+How do i know if i have Depression?,fact-5,know depression
+You don't like me,hate-me,like
+Who are you?,about,
+Good morning,morning,good morning
+What is your name?,about,name
+Than you very much,thanks,much
+How were you created?,creation,created
+What's the difference between anxiety and stress?,fact-31,difference anxiety stress
+You don't understand me.,understand,understand
+You're crazy,stupid,crazy
+I need help,help,need help
+I don't like you,hate-you,like
+I need some advice.,user-advice,need advice
+I am happy.,happy,happy
+How were you made?,creation,made
+I can't bring myself to open up.,not-talking,ca bring open
+boyfriend,default,boyfriend
+I'm good.,happy,good
+I know you hate me,hate-me,know hate
+That's helpful,thanks,helpful
+"If I become involved in treatment, what do I need to know?",fact-16,become involved treatment need know
+ok sure. i would like to learn more about it.,learn-more,ok sure would like learn
+Where are you?,location,
+Hi,greeting,hi
+Is anyone there?,greeting,anyone
+I feel happy.,happy,feel happy
+Could you help me?,help,could help
+I am suffering from insomnia,sleep,suffering insomnia
+My dad passed away,death,dad passed away
+friends,default,friends
+I don't have any friends,friends,friends
+yes,casual,yes
+nice,casual,nice
+I want to talk about something else,something-else,want talk something else
+Wrong response,wrong,wrong response
+Just shut up,not-talking,shut
+What should I call you?,about,call
+I want some advice.,user-advice,want advice
+I am so stressed out,stressed,stressed
+Bye then,goodbye,bye
+How can I find a mental health professional for myself or my child?,fact-14,find mental health professional child
+I need advice on something,user-advice,need advice something
+Who you are?,about,
+Ola,greeting,ola
+What do I do if I'm worried about my mental health?,fact-28,worried mental health
+I feel better now,user-meditation,feel better
+Howdy,greeting,howdy
+Thanks for the help,thanks,thanks help
+girlfriend,default,girlfriend
+Can you prevent mental health problems?,fact-25,prevent mental health problems
+Are there cures for mental health problems?,fact-26,cures mental health problems
+You are dumb,stupid,dumb
+Hello,greeting,hello
+I don't have anything more to say,done,anything say
+What are you?,about,
+I don't want to talk about this.,something-else,want talk
+I am so stressed,stressed,stressed
+I want to die,suicide,want die
+What are some of the warning signs of mental illness?,fact-11,warning signs mental illness
+"yes, i would like to learn more about it.",learn-more,yes would like learn
+Nothing makes sense anymore,worthless,nothing makes sense anymore
+Yeah you're absolutely right about that,user-agree,yeah absolutely right
+I still feel stressed,stressed,still feel stressed
+I am name.,name,name
+You mentioned that already,repeat,mentioned already
+Who created you?,creation,created
+Nothing else,done,nothing else
+Fare thee well,goodbye,fare thee well
+i guess not,no-approach,guess
+Probably because my exams are approaching. I feel stressed out because I don't think I've prepared well enough.,problem,probably exams approaching feel stressed think prepared well enough
+I feel ok,happy,feel ok
+What can you do?,skill,
+What is the importance of mental health?,fact-2,importance mental health
+give me a hand please,help,give hand please
+I'm so anxious because of ,anxious,anxious
+What is mental health?,fact-1,mental health
+My name is ,name,name
+Tell me a joke,jokes,tell joke
+What causes mental illness?,fact-10,causes mental illness
+Hi there,greeting,hi
+I'm scared,scared,scared
+I am feeling lonely,sad,feeling lonely
+I don't trust you,hate-you,trust
+Can people with mental illness recover?,fact-12,people mental illness recover
+hmmm that sounds like it could be useful to me.,meditation,hmmm sounds like could useful
+What are the different types of mental health professionals?,fact-23,different types mental health professionals
+What can you do for me?,help,
+Can we not talk about this?,something-else,talk
+I'm fine,happy,fine
+Tell me more about yourself.,about,tell
+Hola,greeting,hola
+My brother died,death,brother died
+no,casual,
+ok,casual,ok
+What does it mean to have a mental illness?,fact-8,mean mental illness
+Where can I go to find a support group?,fact-24,go find support group
+yeah,casual,yeah
+Bonjour,greeting,bonjour
+Good afternoon,afternoon,good afternoon
+I feel empty,sad,feel empty
+Am i suffering from depression?,fact-5,suffering depression
+I hate you,hate-you,hate
+See you later,goodbye,see later
+Can I ask you something?,ask,ask something
+I am so depressed,depressed,depressed
+Where can I go to find therapy?,fact-21,go find therapy
+You hate me,hate-me,hate
+What causes mental health problems?,fact-27,causes mental health problems
+What treatment options are available?,fact-15,treatment options available
+I feel stuck,stressed,feel stuck
+I am so lonely,sad,lonely
+No i don't want to feel this way,scared,want feel way
+I need support,help,need support
+Who is therapy for?,fact-7,therapy
+i would like to learn more about it.,learn-more,would like learn
+Why is mental health important?,fact-2,mental health important
+Tell me another fact about mental health,mental-health-fact,tell another fact mental health
+How can I maintain social connections? What if I feel lonely?,fact-30,maintain social connections feel lonely
+Do i need therapy?,fact-7,need therapy
+I guess not. All I can think about are my exams.,no-approach,guess think exams
+I feel so lonely,sad,feel lonely
+Can you help?,help,help
+Fine,casual,fine
+ok bye,goodbye,ok bye
+I am sad,sad,sad
+What is your location?,location,location
+is there any cure for mental health problems?,fact-26,cure mental health problems
+I'm interested in learning about mental health.,learn-mental-health,interested learning mental health
+Define Mental Health,fact-1,define mental health
+I am going to kill myself,suicide,going kill
+What's your name?,about,name
+Are you dumb?,stupid,dumb
+What should I know before starting a new medication?,fact-20,know starting new medication
+Hey,greeting,hey
+Support me please,help,support please
+Why are you repeating yourself?,repeat,repeating
+I am going to commit suicide,suicide,going commit suicide
+That doesn't make sense,wrong,make sense
+I can't seem to go to sleep.,sleep,ca seem go sleep
+I have insominia,sleep,insominia
+You're just some robot. How would you know?,understand,robot would know
+K,casual,k
+What is therapy?,fact-7,therapy
+I have depression,depressed,depression
+What is the difference between mental health professionals?,fact-17,difference mental health professionals
+What should I do if I know someone who appears to have the symptoms of a mental disorder?,fact-13,know someone appears symptoms mental disorder
+That's all.,done,
+difference between sadness and depression,fact-32,difference sadness depression
+Sayonara,goodbye,sayonara
+Tell me a fact about mental health,mental-health-fact,tell fact mental health
+I can't take it anymore,depressed,ca take anymore
+That sounds awful. What do i do?,scared,sounds awful
+Good evening,evening,good evening
+not really,casual,really
+i did what you said and i feel alot better. thank you very much.,user-meditation,said feel alot better thank much
+I haven't slept for the last days.,sleep,slept last days

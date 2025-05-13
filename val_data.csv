@@ -1,0 +1,48 @@
+pattern,tag,cleaned_pattern
+Where can I learn about types of mental health treatment?,fact-22,learn types mental health treatment
+I feel so worthless.,worthless,feel worthless
+Konnichiwa,greeting,konnichiwa
+not really,no-approach,really
+Good night,night,good night
+What does a therapist do?,fact-6,therapist
+Thank you,thanks,thank
+Am i depressed?,fact-5,depressed
+Are you stupid?,stupid,stupid
+I want to kill myself,suicide,want kill
+Where else can I get help?,fact-19,else get help
+Au revoir,goodbye,au revoir
+No just stay away.,not-talking,stay away
+That sounds useful.,meditation,sounds useful
+yeah you're right. i deserve a break.,user-agree,yeah right deserve break
+exams,default,exams
+Tell me another joke,jokes,tell another joke
+nothing much,neutral-response,nothing much
+How do I know if I'm unwell?,fact-29,know unwell
+I want to learn about mental health.,learn-mental-health,want learn mental health
+I am scared for myself,scared,scared
+Let's talk about something else.,something-else,let talk something else
+Who does mental illness affect?,fact-9,mental illness affect
+thank you very much again. i'll continue practicing meditation and focus on what i can control.,pandora-useful,thank much continue practicing meditation focus control
+"no, that would be all",done,would
+Goodbye,goodbye,goodbye
+You already told me that,repeat,already told
+I can't sleep.,sleep,ca sleep
+I haven't had proper sleep for the past few days.,sleep,proper sleep past days
+okay,casual,okay
+Am i mentally ill?,fact-5,mentally ill
+I don't have anyone,sad,anyone
+You're useless,understand,useless
+I go by ,name,go
+Bye,goodbye,bye
+I've thought about killing myself.,suicide,thought killing
+Where do you live?,location,live
+You can't help me,understand,ca help
+Oh I see.,casual,oh see
+financial problems,default,financial problems
+I feel so anxious.,anxious,feel anxious
+Define Depression,fact-3,define depression
+money,default,money
+I think i'm depressed.,depressed,think depressed
+Someone in my family died,death,someone family died
+My sister passed away,death,sister passed away
+What are you saying?,wrong,saying

@@ -10,6 +10,9 @@ import random
 import nltk
 from nltk.stem import WordNetLemmatizer
 
+nltk.download('punkt_tab')
+nltk.download('wordnet')
+
 # Initialize lemmatizer
 lemmatizer = WordNetLemmatizer()
 

@@ -17,7 +17,9 @@ nltk.download('wordnet')
 lemmatizer = WordNetLemmatizer()
 
 # Load model, words, classes, and intents data
-model = tf.keras.models.load_model('model.keras')
+model = tf.keras.models.load_model('model.keras', compile=False)
+model.compile(optimizer='adam', loss='categorical_crossentropy', metrics=['accuracy'])
+
 with open('texts.pkl', 'rb') as f:
     words = pickle.load(f)
 with open('labels.pkl', 'rb') as f:
